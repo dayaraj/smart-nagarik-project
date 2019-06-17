@@ -50,8 +50,34 @@ margin-right: 100px;
 	background-color: #3DB4D9;
 	border-radius: 30px;
 }
-
-
+h2{
+	margin-top: 100px;
+	padding-left: 46%;
+	color: #3DB4D9;
+}
+.col-1{
+  display: inline-block;
+  width: 30%;
+  padding: 10px;
+  height: 300px;
+  border: 1px solid red;
+  margin-top: 30px; 
+  margin-left: 15px;
+}
+.col-2{
+  float: right;
+  width: 30%;
+  padding: 10px;
+  height: 300px;
+   margin-top: 30px;
+  margin-left: 10px;
+  border: 1px solid red;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 .footer{
 	margin-top: 30px; 
