@@ -183,6 +183,42 @@ span.psw a{
 	color: gray;
 	text-decoration-style: none;
 }
+#footer_section4{
+	margin: 25px;
+	float: right;
+	display: inline-block;
+	width: 380px;
+	height: 250px;
+	padding: 15px;
+	text-align: justify;
+    font-family: 'Fira Sans',sans-serif;
+    line-height: 1.7;
+    color: #666666;
+    font-size: 14px;
+    margin-top: -140px;
+    margin-right: 50px;
+    }
+#footer_section4 ul{
+	list-style-type: none;
+}
+#footer_section4 ul li a{
+	text-decoration: none;
+	color: gray;
+	padding: 15px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+    font-weight: 200;
+    line-height: 3;
+    margin-top: -100px;
+
+}
+#footer_section4 ul li a:hover{
+	color: white;
+}
+#footer_section4 h3{
+	color: gray;
+	text-decoration-style: none;
+}
 .last{
 	height: 18px;
 	width: 100%;
